@@ -6,14 +6,14 @@ A Transport Management System designed to simplify and automate transportation o
 
 Features
 
-- 🚗 Manage vehicles (Add, Update, Delete)
-- 🗺️ Route management system
-- 🕒 Scheduling and timing management
-- 👤 User/Admin management
-- 📊 Data storage and retrieval
-- 🔍 Easy tracking of transport activities
+ Manage vehicles (Add, Update, Delete)
+ Route management system
+ Scheduling and timing management
+ User/Admin management
+ Data storage and retrieval
+ Easy tracking of transport activities
 
----
+
 
  Technologies Used
 
@@ -31,7 +31,6 @@ Transport-System/
 │── assets/           # Images / UI  
 │── README.md         # Documentation  
 
----
 
  Installation
 
@@ -44,15 +43,11 @@ Transport-System/
 
 4. Run the project
 
----
+
 
 
  Author
 
 Shreya Poojari
 
----
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
